@@ -1,0 +1,10 @@
+fastapi[all]
+uvicorn[standard]
+python-dotenv
+aiofiles
+pydantic
+
+python-multipart
+zipfile36
+pyjwt
+jwt-python
